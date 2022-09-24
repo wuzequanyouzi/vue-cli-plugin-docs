@@ -1,6 +1,6 @@
 {
   "name": "@freedom-youzi/vue-cli-plugin-docs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "该插件用于预览和打包Vue组件文档",
   "dependencies": {
     "fs-extra": "10.1.0",

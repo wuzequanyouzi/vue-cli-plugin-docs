@@ -5,7 +5,7 @@
 之后进入工程
 
 ```shell
-npm i @youzi/vue-cli-plugin-docs
+npm i @freedom-youzi/vue-cli-plugin-docs
 ```
 
 2. 在工程根目录下创建对应的文件
@@ -34,4 +34,4 @@ npm i @youzi/vue-cli-plugin-docs
 npx vue-cli-service serve --mode docs
 ```
 即可预览
-![](https://raw.githubusercontent.com/wuzequanyouzi/vue-cli-plugin-docs/master/screenshots.gif)
+![](https://s3.bmp.ovh/imgs/2022/09/24/eabc130379e35684.gif)
